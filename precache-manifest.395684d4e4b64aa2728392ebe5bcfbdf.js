@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8236a97a6aec9182f849abd120a0343",
+    "revision": "ebeafcba29f9e5dcf5587531bc2d4031",
     "url": "/Garden-fl/index.html"
   },
   {
-    "revision": "5a60e0fc3d08979cb3f9",
+    "revision": "df6853fa2c6d07412713",
     "url": "/Garden-fl/static/css/2.1d7cc79d.chunk.css"
   },
   {
-    "revision": "872a1b84e041837d4e1f",
+    "revision": "976cef12fa8cc05e1a2b",
     "url": "/Garden-fl/static/css/main.4939567a.chunk.css"
   },
   {
-    "revision": "5a60e0fc3d08979cb3f9",
-    "url": "/Garden-fl/static/js/2.f1f43331.chunk.js"
+    "revision": "df6853fa2c6d07412713",
+    "url": "/Garden-fl/static/js/2.ce67108c.chunk.js"
   },
   {
-    "revision": "872a1b84e041837d4e1f",
-    "url": "/Garden-fl/static/js/main.f0ecd182.chunk.js"
+    "revision": "976cef12fa8cc05e1a2b",
+    "url": "/Garden-fl/static/js/main.beb1297e.chunk.js"
   },
   {
     "revision": "6414ac2eba603d8767db",
@@ -42,5 +42,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fe4e92df95035a92723a54f909e3a094",
     "url": "/Garden-fl/static/media/slider5.fe4e92df.jpeg"
+  },
+  {
+    "revision": "3b08ec57de70679ca500868d134a38a8",
+    "url": "/Garden-fl/static/media/spx2-1.3b08ec57.png"
   }
 ]);
