@@ -211,7 +211,7 @@ class Main extends React.Component {
                                     <Link to="/">Գլխավոր էջ</Link>
                                 </li>
                                 <li>
-                                    <Link to="/product">Ծաղիկներ</Link>
+                                    <Link to="/error">Ծաղիկներ</Link>
                                 </li>
                                 <li>
                                     <Link to="/contact">Կապվեք մեզ հետ</Link>
