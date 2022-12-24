@@ -128,7 +128,7 @@
       top: 183px;
     }
     .NavBar ul {
-      width: 100%;
+      width: 100vw;
       position:relative;
     }
     .NavBar ul li {

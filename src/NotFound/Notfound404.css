@@ -8,6 +8,13 @@ svg{
     text-align: center;
     fill: #3FB871;
 }
+@media only screen and (max-width: 768px) {
+
+  svg{
+    width: 320px;
+     
+  }
+}
 path#XMLID_5_ {
    
     fill: #3FB871;
@@ -23,6 +30,7 @@ path#XMLID_11_ ,path#XMLID_2_ {
 
 #container_Notfound{
   text-align:center;
+  margin-top: 150px;
 }
 .btnBack{
     display: inline-block;

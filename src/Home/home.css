@@ -308,6 +308,9 @@ height:200px;
     div:has(div:has( .modal_box)) {
         display:none;
     }
+    .home{
+        margin-top: 150px;
+    }
     
     .home .small img  {
         height: 250px;
