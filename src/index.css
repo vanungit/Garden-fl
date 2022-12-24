@@ -13,11 +13,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-/* ._container{
-  max-width: 1600px;
+._container{
+  max-width: 1800px;
   margin: 0 auto;
 
-} */
+}
 
 html,
 body,
