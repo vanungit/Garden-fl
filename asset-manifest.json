@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/Garden-fl/static/css/main.4939567a.chunk.css",
-    "main.js": "/Garden-fl/static/js/main.beb1297e.chunk.js",
-    "main.js.map": "/Garden-fl/static/js/main.beb1297e.chunk.js.map",
+    "main.css": "/Garden-fl/static/css/main.8df8e6d7.chunk.css",
+    "main.js": "/Garden-fl/static/js/main.e49ef5cf.chunk.js",
+    "main.js.map": "/Garden-fl/static/js/main.e49ef5cf.chunk.js.map",
     "runtime~main.js": "/Garden-fl/static/js/runtime~main.e2555354.js",
     "runtime~main.js.map": "/Garden-fl/static/js/runtime~main.e2555354.js.map",
     "static/css/2.1d7cc79d.chunk.css": "/Garden-fl/static/css/2.1d7cc79d.chunk.css",
-    "static/js/2.ce67108c.chunk.js": "/Garden-fl/static/js/2.ce67108c.chunk.js",
-    "static/js/2.ce67108c.chunk.js.map": "/Garden-fl/static/js/2.ce67108c.chunk.js.map",
+    "static/js/2.56676ecb.chunk.js": "/Garden-fl/static/js/2.56676ecb.chunk.js",
+    "static/js/2.56676ecb.chunk.js.map": "/Garden-fl/static/js/2.56676ecb.chunk.js.map",
     "index.html": "/Garden-fl/index.html",
-    "precache-manifest.395684d4e4b64aa2728392ebe5bcfbdf.js": "/Garden-fl/precache-manifest.395684d4e4b64aa2728392ebe5bcfbdf.js",
+    "precache-manifest.ccbe78cde8652bfef76a155746edd247.js": "/Garden-fl/precache-manifest.ccbe78cde8652bfef76a155746edd247.js",
     "service-worker.js": "/Garden-fl/service-worker.js",
     "static/css/2.1d7cc79d.chunk.css.map": "/Garden-fl/static/css/2.1d7cc79d.chunk.css.map",
-    "static/css/main.4939567a.chunk.css.map": "/Garden-fl/static/css/main.4939567a.chunk.css.map",
+    "static/css/main.8df8e6d7.chunk.css.map": "/Garden-fl/static/css/main.8df8e6d7.chunk.css.map",
     "static/media/1665818823437.png": "/Garden-fl/static/media/1665818823437.21b38eb7.png",
     "static/media/banner.png": "/Garden-fl/static/media/banner.d9177cda.png",
     "static/media/heading.png": "/Garden-fl/static/media/heading.70dee0f0.png",
     "static/media/slider10.jpeg": "/Garden-fl/static/media/slider10.715f90ba.jpeg",
     "static/media/slider5.jpeg": "/Garden-fl/static/media/slider5.fe4e92df.jpeg",
-    "static/media/spx2-1.png": "/Garden-fl/static/media/spx2-1.3b08ec57.png"
+    "static/media/spx2-1.png": "/Garden-fl/static/media/spx2-1.3b08ec57.png",
+    "static/media/spx2-4.png": "/Garden-fl/static/media/spx2-4.7d4ca28d.png"
   }
 }
