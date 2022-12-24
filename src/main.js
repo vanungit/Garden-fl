@@ -150,7 +150,7 @@ class Main extends React.Component {
                                         this.props.search(this.state.search);
                                         e.preventDefault();
                                     }} >
-                                        <Link to="/product">  <i className="fa fa-search" /></Link></button>
+                                        <Link to="/">  <i className="fa fa-search" /></Link></button>
                                 </form>
                             </div>
 
@@ -223,7 +223,7 @@ class Main extends React.Component {
                 <div className="main">
                     <Switch>
                         <Route exact path="/" component={Home} />
-                        <Route path="/product" component={ProductList} />
+                        {/* <Route path="/product" component={ProductList} /> */}
                         <Route path="/login" component={Login} />
                         <Route path="/regis" component={Regis} />
                         <Route path="/cart" component={Cart} />
